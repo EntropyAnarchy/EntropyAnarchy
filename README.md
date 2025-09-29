@@ -1,26 +1,33 @@
 # Hello, I'm EntropyAnarchy!
 
-Welcome to my GitHub profile! I'm a network security analyst and cybersecurity undergrad.
+Welcome to my profile! I'm a network security analyst at SymplyFi, a Firewall and MSP for QSRs, and I'm a cybersecurity undergrad (with a music minor) at Kennesaw State University.
 
-## About Me
+## About me
 - I’m currently studying to take my Network+ and Security+.
 - Always interested in talking about anything Linux/Unix related!
 - How to reach me: [erinriederclark@pm.me](mailto:erinriederclark@pm.me)
 - Pronouns: It/She
-- ⚡ Fun fact: [I use Arch btw.]
+- ⚡ Fun fact: I currently use Artix as my laptop daily driver, but I'm thinking about trying out Void Linux or Gentoo soon. Let me know if you have any suggestions.
 
-## Languages and Tools
-- **Languages:** Python, Assembly, Bash, Zsh, 
-- **Tools:** Git, Docker
+## Languages and Tools I have experience with (most to least experience)
+- **Languages:**
+Python, Bash, Zsh, PostreSQL, JAVA, MIPS Assembly, Ruby
+- **Tools and Programs:**
+Network and Packet Analysis - Tcpdump, Wireshark
+Log Monitoring and Analysis - Graylog, Splunk
+Network Security - Nmap, Aircrack-ng
+Web Application Security - Burp Suite
+Containerization - Docker, Kubernetes
+SIEM Solutions - Wazuh
+Version Control - Git
 
-## GitHub Stats
+## GitHub stats
 ![EntropyAnarchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EntropyAnarchy&show_icons=true&theme=radical)
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/erin-r-clark)
+## More of me
 - [Portfolio](https://your-portfolio.com)
 
-## Awards and Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=EntropyAnarchy&theme=onedark)
+## Awards and trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=EntropyAnarchy&theme=onedark)
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile!
