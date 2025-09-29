@@ -23,7 +23,6 @@ Version Control - Git
 
 ## Certifications and badges
 <!--START_SECTION:badges-->
-
 <!--END_SECTION:badges-->
 
 ## Awards and trophies
