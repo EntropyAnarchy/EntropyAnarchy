@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a network security analyst and cybersecurity u
 ## About Me
 - I’m currently studying to take my Network+ and Security+.
 - Always interested in talking about anything Linux/Unix related!
-- How to reach me: [Your Email](mailto:erinriederclark@pm.me)
+- How to reach me: [erinriederclark@pm.me](mailto:erinriederclark@pm.me)
 - Pronouns: It/She
 - ⚡ Fun fact: [I use Arch btw.]
 
