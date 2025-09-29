@@ -21,13 +21,18 @@ Containerization - Docker, Kubernetes
 SIEM Solutions - Wazuh
 Version Control - Git
 
-## GitHub stats
-![EntropyAnarchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EntropyAnarchy&show_icons=true&theme=radical)
+## Certifications and badges
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
+
+## Awards and trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=EntropyAnarchy&theme=onedark)
 
 ## More of me
 - [Portfolio](https://your-portfolio.com)
 
-## Awards and trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=EntropyAnarchy&theme=onedark)
+## GitHub stats
+![EntropyAnarchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EntropyAnarchy&show_icons=true&theme=radical)
 
 Thanks for visiting my profile!
