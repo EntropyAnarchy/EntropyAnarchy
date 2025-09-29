@@ -16,4 +16,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: </erin-clark.c071237e> # optional, but default will use the same from github
+          CREDLY_USER: <erin-clark.c071237e> # optional, but default will use the same from github
+          NUMBER_LAST_BADGES: 10 
