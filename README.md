@@ -1,4 +1,4 @@
-# Hello, I'm Rootwave!
+# Hello, I'm EntropyAnarchy!
 
 Welcome to my GitHub profile! I'm a network security analyst and cybersecurity undergrad.
 
@@ -14,13 +14,13 @@ Welcome to my GitHub profile! I'm a network security analyst and cybersecurity u
 - **Tools:** Git, Docker
 
 ## GitHub Stats
-![Rootwaves's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rootwave&show_icons=true&theme=radical)
+![EntropyAnarchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EntropyAnarchy&show_icons=true&theme=radical)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/erin-r-clark)
 - [Portfolio](https://your-portfolio.com)
 
 ## Awards and Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Rootwave&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=EntropyAnarchy&theme=onedark)
 
 Thanks for visiting my profile! Have a great day! 😊
